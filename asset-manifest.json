@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rest-Countries-Challenge/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Rest-Countries-Challenge/static/js/main.4224f3b4.chunk.js",
+    "main.js.map": "/Rest-Countries-Challenge/static/js/main.4224f3b4.chunk.js.map",
+    "runtime-main.js": "/Rest-Countries-Challenge/static/js/runtime-main.835b207f.js",
+    "runtime-main.js.map": "/Rest-Countries-Challenge/static/js/runtime-main.835b207f.js.map",
+    "static/js/2.95df3769.chunk.js": "/Rest-Countries-Challenge/static/js/2.95df3769.chunk.js",
+    "static/js/2.95df3769.chunk.js.map": "/Rest-Countries-Challenge/static/js/2.95df3769.chunk.js.map",
+    "index.html": "/Rest-Countries-Challenge/index.html",
+    "precache-manifest.80c7fe37c3f4ce10f5d85438e46ac6e5.js": "/Rest-Countries-Challenge/precache-manifest.80c7fe37c3f4ce10f5d85438e46ac6e5.js",
+    "service-worker.js": "/Rest-Countries-Challenge/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Rest-Countries-Challenge/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.95df3769.chunk.js.LICENSE": "/Rest-Countries-Challenge/static/js/2.95df3769.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Rest-Countries-Challenge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835b207f.js",
+    "static/js/2.95df3769.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4224f3b4.chunk.js"
+  ]
+}
